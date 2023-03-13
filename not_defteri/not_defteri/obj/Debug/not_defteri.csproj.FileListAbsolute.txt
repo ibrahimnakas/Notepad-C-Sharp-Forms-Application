@@ -1,0 +1,39 @@
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\bin\Debug\not_defteri.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\bin\Debug\not_defteri.exe
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\bin\Debug\not_defteri.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.exe
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.AboutBox1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\VS Çalışmalar\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.Form2.resources
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\bin\Debug\not_defteri.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\bin\Debug\not_defteri.exe
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\bin\Debug\not_defteri.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.AboutBox1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.Form2.resources
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.exe
+C:\Users\ibrah\OneDrive\Masaüstü\VS Projects\Programlama 2.Sınıf\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\bin\Debug\not_defteri.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\bin\Debug\not_defteri.exe
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\bin\Debug\not_defteri.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.AboutBox1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.Form2.resources
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.exe
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\6.Hafta\not_defteri\not_defteri\obj\Debug\not_defteri.pdb
